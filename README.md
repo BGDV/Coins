@@ -16,6 +16,7 @@ Thus, the process will stop when there are less than K grams of silver left in t
   
 
   Data examples:
+  
   Example 1:
   Input 10 5 2
   Output 4
